@@ -1,8 +1,6 @@
-Hello, I am Abdul Naeem Turkmen
-i am interested to open source application development.
-now a days i am learning about reactive documents that what and how it is working.
-i am looking to collaborate in reactive documents application and other open source laravel and ajax applications.
-you can get to me using my email.
-Email : abdulnaeemturk@gamil.com
+Hello,<br>
+I am Abdul Naeem Turkmen, and I am passionate about open-source application development. Currently, I am learning about reactive documents-what they are and how they work. I am looking to collaborate on reactive document applications as well as other open-source Laravel and AJAX projects.
+<br><br>
+Feel free to reach out to me via email: abdulnaeemturk@gmail.com
 
 
