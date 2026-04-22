@@ -56,7 +56,6 @@ Personal project designed for improving workflow in restaurant environments. Bui
 
 ## 🌐 Let's Connect
 
-- 📫 Email: [abdulnaeemnazari@gmail.com](mailto:abdulnaeemnazari@gmail.com)  
 - 💼 LinkedIn: [(https://ch.linkedin.com/in/abdul-naeem-nazari-05374b101)](linkedin.com)
 - 🏠 Location: Langenbruck, Basel-Landschaft, Switzerland
 
